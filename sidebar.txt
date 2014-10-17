@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dnd:home|Door43 (dnd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dnd|d43-dnd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dnd/archive/master.zip|d43-dnd.zip]]
+
+**Recent Changes**
+{{changes>ns = dnd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dnd|Ethnologue data]]
+
